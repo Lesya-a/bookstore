@@ -2,101 +2,101 @@
   "books": [
     {
       "id": 1,
-      "image": ""
-      "name": "Post 1"
-      "author":
-      "coast": 17.05
-      "description": ""
-      "categoru1": ""
-      "categoru2": ""
+      "image": "",
+      "name": "Post 1",
+      "author": "",
+      "coast": 17.05,
+      "description": "",
+      "categoru1": "",
+      "categoru2": "",
       "categoru3": ""
     },
     {
         "id": 2,
-        "image": ""
-        "name": "Post 1"
-        "author":
-        "coast": 17.05
-        "description": ""
-        "categoru1": ""
-        "categoru2": ""
+        "image": "",
+        "name": "Post 1",
+        "author": "",
+        "coast": 17.05,
+        "description": "",
+        "categoru1": "",
+        "categoru2": "",
         "categoru3": ""
     },
     {
         "id": 3,
-        "image": ""
-        "name": "Post 1"
-        "author":
-        "coast": 17.05
-        "description": ""
-        "categoru1": ""
-        "categoru2": ""
+        "image": "",
+        "name": "Post 1",
+        "author": "",
+        "coast": 17.05,
+        "description": "",
+        "categoru1": "",
+        "categoru2": "",
         "categoru3": ""
     },
     {
       "id": 4,
-      "image": ""
-      "name": "Post 1"
-      "author":
-      "coast": 17.05
-      "description": ""
-      "categoru1": ""
-      "categoru2": ""
+      "image": "",
+      "name": "Post 1",
+      "author": "",
+      "coast": 17.05,
+      "description": "",
+      "categoru1": "",
+      "categoru2": "",
       "categoru3": ""
     },
     {
         "id": 5,
-        "image": ""
-        "name": "Post 1"
-        "author":
-        "coast": 17.05
-        "description": ""
-        "categoru1": ""
-        "categoru2": ""
+        "image": "",
+        "name": "Post 1",
+        "author": "",
+        "coast": 17.05,
+        "description": "",
+        "categoru1": "",
+        "categoru2": "",
         "categoru3": ""
     },
     {
         "id": 6,
-        "image": ""
-        "name": "Post 1"
-        "author":
-        "coast": 17.05
-        "description": ""
-        "categoru1": ""
-        "categoru2": ""
+        "image": "",
+        "name": "Post 1",
+        "author": "",
+        "coast": 17.05,
+        "description": "",
+        "categoru1": "",
+        "categoru2": "",
         "categoru3": ""
     },
     {
       "id": 7,
-      "image": ""
-      "name": "Post 1"
-      "author":
-      "coast": 17.05
-      "description": ""
-      "categoru1": ""
-      "categoru2": ""
+      "image": "",
+      "name": "Post 1",
+      "author": "",
+      "coast": 17.05,
+      "description": "",
+      "categoru1": "",
+      "categoru2": "",
       "categoru3": ""
     },
     {
         "id": 8,
-        "image": ""
-        "name": "Post 1"
-        "author":
-        "coast": 17.05
-        "description": ""
-        "categoru1": ""
-        "categoru2": ""
+        "image": "",
+        "name": "Post 1",
+        "author": "",
+        "coast": 17.05,
+        "description": "",
+        "categoru1": "",
+        "categoru2": "",
         "categoru3": ""
     },
     {
         "id": 9,
-        "image": ""
-        "name": "Post 1"
-        "author":
+        "image": "",
+        "name": "Post 1",
+        "author": "",
         "coast": 17.05
-        "description": ""
-        "categoru1": ""
-        "categoru2": ""
+        "description": "",
+        "categoru1": "",
+        "categoru2": "",
         "categoru3": ""
     }
   ]
